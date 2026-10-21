@@ -1,7 +1,6 @@
+import { pool } from "@/lib/db";
 
-import pool from "@/lib/db";
 
-// READ: mengambil semua produk
 export async function GET() {
     try {
         const [rows] = await pool.query(
