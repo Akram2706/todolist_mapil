@@ -4,6 +4,8 @@
 ca.pem
 /lib
 db.js
+package-lock.json
+pakckage.json
 
 # dependencies
 /node_modules
