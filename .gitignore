@@ -2,9 +2,6 @@
 
 .env.local
 ca.pem
-/lib
-db.js
-
 
 # dependencies
 /node_modules
